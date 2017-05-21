@@ -1,2 +1,2 @@
 ﻿var uiroute = angular
-       .module('uiroute', ['ui.router', 'ui.knob', 'easypiechart']);
+       .module('uiroute', ['ui.router', 'ui.knob','easypiechart']);
